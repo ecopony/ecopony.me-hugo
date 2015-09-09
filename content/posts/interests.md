@@ -4,7 +4,6 @@ draft = true
 title = "interests"
 weight = 4
 type = "post"
-class="post last"
 
 +++
 

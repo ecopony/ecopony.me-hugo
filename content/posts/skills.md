@@ -5,6 +5,7 @@ title = "skills"
 weight = 3
 type = "post"
 +++
+
 Here are a few, anyway.
 
 Languages: Java, Ruby, Go, Scala, JavaScript, TypeScript, Dart, R, SQL
