@@ -1,10 +1,4 @@
 baseurl = "http://ecopony.github.io/"
 languageCode = "en-us"
 title = "ed copony"
-
-[Params]
-  github = "ecopony"
-  twitter = "ecopony"
-  email = "ecopony mostly"
-  description = "software developer - portland, or"
-  linkedin = "ecopony"
+theme = "heather-hugo"
