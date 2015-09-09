@@ -1,4 +1,8 @@
 baseurl = "http://ecopony.github.io/"
 languageCode = "en-us"
 title = "ed copony"
-theme = "heather-hugo"
+canonifyurls = true
+description = "software developer - portland, or"
+
+[params]
+	description = "software developer - portland, or"

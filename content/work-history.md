@@ -24,7 +24,7 @@ Techniques: Kanban, lean startup, Drive-inspired leadership and team-building.
 
 Successes: Using ideas from lean-startup, delivered the first consumer-facing, agentless point-of-sale system, conducting multiple experiments on streamlining the sales experience.
 
-### Jama Software
+## Jama Software
 
 #### Software Developer, lead role
 
@@ -36,7 +36,7 @@ Techniques: Kanban, rapid prototyping, continuous integration, build pipeline.
 
 Successes: Helped accelerate the learning and decision-making that led to our team's work being fed back into the core product.
 
-### Analog Analytics (now Barclaycard)
+## Analog Analytics (now Barclaycard)
 
 #### Software Developer
 
@@ -48,7 +48,7 @@ Techniques: Pair programming, continuous integration and deployment, dev-ops sty
 
 Successes: Integrated quickly into an existing team, delivering software on day one, building out several key new features, and serving as lead on some important customer-driven projects.
 
-### Collaborative Software Initiative
+## Collaborative Software Initiative
 #### Software Developer, lead role
 
 At CSI, I was the first full-time development hire, coming over from Liberty Mutual with my manager to build a new team and start work on a new project. We were to build an open source, disease surveillance application. Initially the application was for the public health department of the state of Utah, with the hope that a community would grow around it and be used by other health departments and the CDC.
@@ -63,7 +63,7 @@ Techniques: Distributed agile, continuous integration, open-source devlopment/co
 
 Successes: Building a great team and a cool product that did some good for the world
 
-### Liberty Mutual
+## Liberty Mutual
 #### Software Developer, later a Technologist
 
 I started at Liberty Mutual in Portland when IT was still under Liberty Northwest. In those days, I was an individual contributor on a web-based, auto-insurance application whose backend was a staged, event-driven system. I was developing services 'on the bus' and fixing scalability issues with the pre-existing ORM implementation.
@@ -80,17 +80,17 @@ Successes: On the Liberty Northwest team, a re-write of an ORM implementation dr
 
 ## Other roles
 
-### Medical Management International (Banfield)
+## Medical Management International (Banfield)
 #### Software Developer
 
-### Portland Public Schools
+## Portland Public Schools
 #### Software Developer, lead role
 
-### Apress
+## Apress
 #### Software Developer
 
-### The Industry Standard
+## The Industry Standard
 #### Software Developer
 
-### Sparks.com
+## Sparks.com
 #### Software Developer
