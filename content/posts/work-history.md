@@ -10,6 +10,18 @@ class="post first"
 
 I've worked at start-ups and Fortune-50 companies, as a manager and as an individual contributor. I've built teams and joined existing ones. I've been lucky enough to be a part of some great teams and work with lots of smart people that I could learn from. 
 
+## ExecOnline
+
+#### Software Developer
+
+Current role. Individual contributor on a development team building and evolving ExecOnline's platform. The platform consists of tools to manage online courses and deliver their content.
+
+Tech: Ruby on Rails, AWS (Lambda, S3, RDS).
+
+Techniques: Distributed agile.
+
+Successes to come!
+
 ## Fidelity Life Association / eFinancial
 
 #### Manager of Software Development
