@@ -1,0 +1,47 @@
+Skills and Education
+#####################
+
+Skills
+========
+
+(A sampling of them, anyway.)
+
+Languages
+---------
+Python, TypeScript, Ruby, Java, Go, Scala, JavaScript, R, SQL
+
+Libraries/Frameworks
+---------------------------
+
+Ruby on Rails, React, React Native, Play, Jersey, Ext JS, Angular, Node.js, Spring, Hibernate, AWS SDKs, jQuery
+
+For Python data science: Pandas, Matplotlib, NumPy, Seaborn, GeoPandas
+
+Build/Ops
+---------------------------
+
+Git, AWS, Chef, Puppet, Jenkins, Bamboo, Google Analytics, Maven, Rake, Capistrano
+
+Other stuff
+---------------------------
+
+RabbitMQ, integration patterns, REST API design, Selenium, PostgreSQL, MySQL, HTML, CSS, XML, XSLT, Haml, Sass, Bootstrap
+
+
+Techniques
+---------------------------
+
+Lean, agile, Kanban, flow metrics, no-estimation forecasting, lean startup, test-driven development, continuous integration and deployment
+
+Education
+===========
+
+University of Virginia
+-------------------------
+
+Bachelor's Degree of Arts, History, 1996.
+
+Northwest Missouri State University
+------------------------------------
+
+Master's Degree of Science, Geographic Information Science, Expected 2023
