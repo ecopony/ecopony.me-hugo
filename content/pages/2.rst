@@ -1,40 +1,47 @@
-Side Projects
-###################
+Skills and Education
+#####################
 
-CSV-to-ADIF Converter for POTA
+Skills
+========
+
+(A sampling of them, anyway.)
+
+Languages
+---------
+Python, TypeScript, Ruby, Java, Go, Scala, JavaScript, R, SQL
+
+Libraries/Frameworks
+---------------------------
+
+Ruby on Rails, React, React Native, Play, Jersey, Ext JS, Angular, Node.js, Spring, Hibernate, AWS SDKs, jQuery
+
+For Python data science: Pandas, Matplotlib, NumPy, Seaborn, GeoPandas
+
+Build/Ops
+---------------------------
+
+Git, AWS, Chef, Puppet, Jenkins, Bamboo, Google Analytics, Maven, Rake, Capistrano
+
+Other stuff
+---------------------------
+
+RabbitMQ, integration patterns, REST API design, Selenium, PostgreSQL, MySQL, HTML, CSS, XML, XSLT, Haml, Sass, Bootstrap
+
+
+Techniques
+---------------------------
+
+Lean, agile, Kanban, flow metrics, no-estimation forecasting, lean startup, test-driven development, continuous integration and deployment
+
+Education
+===========
+
+University of Virginia
+-------------------------
+
+Bachelor's Degree of Arts, History, 1996.
+
+Northwest Missouri State University
 ------------------------------------
 
-A very simple side-project for Ham radio operators who participate in Parks on the Air (https://parksontheair.com/).
-
-ruby-pota-csv-to-adif will convert CSV to the ADIF format required by the POTA program. This allows operators to use whatever logging program they want, as long as they can generate a CSV file with the expected headers.
-
-https://github.com/ecopony/ruby-pota-csv-to-adif
-
-
-Velofight! - Online fantasy cycling game and community
-------------------------------------------------------------
-
-
-Velofight! started when my friend and colleague Mike Westover came down from Seattle to visit me in Portland. We met at a coffee shop and he pitched his idea. He knew someone in Seattle who had been running a fantasy cycling game for his friends out of an Excel spreadsheet for a number of years. Mike’s idea: Take the game out of the spreadsheet, put it online in time for the Tour de France, do a little advertising for it, slap ads on it, and see what happens. And, as Mike is skilled at doing, he made it sound really simple. It would have to be, since we had about two weeks before the Tour de France started.
-
-We had about a week to get user account creation and roster creation built and the app deployed. This would allow people to get signed up and make their teams. Then, we had about a week until the first stage, so we had that long to get individual stage scoring built. From there, no problem! We had three weeks to finish the final scoring. The application also emailed participants about daily results, so there was that piece, and we gave away killer Velofight! socks and t-shirts for top performers.
-
-Velofight! was a blast. We used Rails for the app, we deployed to AWS, we managed the work with Pivotal Tracker. I was the main developer, Mike handled deployment, operations, and some light development. We got all parts of the site up in time, working after hours when we were done with our day jobs. Despite the mad dash, we did test-driven development, had great test coverage, and only a couple, very minor defects make it to production. The users had a blast, and we made improvements for the Tour of Spain, which was about a month later.
-
-Over the next winter we added support for single-day races and added series support for multiple competitions throughout the year. Users could invite their friends to Velofight!, and many did. We had users all over the world.
-
-We ran the site for four years, before time constraints on both of us led us to, sadly, shut it down. Our users thanked us – some even said they would pay to play! Someday we might decide to bring back Velofight! on a different platform.
-
-MLB Gameday API (Go version)
-------------------------------
-
-After using my Scala version of the API for a couple years (see the next side project below), I wanted an easier way to play with command-line apps. This led me to Go. I learned Go and had an alternate version of the API working in short order. Building with Go was a much simpler experience than Scala. It’s a great option for solving a lot of different kinds of problems.
-
-https://github.com/ecopony/gamedayapi
-
-MLB Gameday API (Scala version)
-------------------------------------------------------------
-
-Wanting to learn Scala, and wanting to play with the free data that MLB makes available for fans to use, I developed an API to MLB Gameday using Scala. Scala has some cool features, the ability to do OO and more functional programming is nice. The language and the ecosystem is pretty complex, though. It takes a lot of room in your head, and can make some simple things harder than they need to be.
-
-https://github.com/ecopony/scala-gameday-api
+Master's Degree of Science, Geographic Information Science, Expected 2023

@@ -1,8 +1,7 @@
 Work History
 ############
 
-I’ve worked at start-ups and Fortune-50 companies, as a manager and as an individual contributor. I’ve built teams and joined existing ones. I’ve been lucky enough to be a part of some great teams and work with lots of smart people that I could learn from.
-
+Principal Software Developer with 22 years of experience in the technology industry. Proven ability to forecast, lead, and deliver software projects. Expertise in a variety of technologies, including Python, Java, Typescript, Ruby on Rails, React, and AWS. Extensive experience designing and implementing web APIs. Knowledgeable in geospatial data science and remote sensing. (GIS master's degree expected October 2023.)
 
 -----------------
 Current Role
@@ -13,11 +12,13 @@ ExecOnline - Principal Software Developer
 
 *Oct 2015 - Present*
 
-Individual contributor on a fantastic team, having fun building and growing a great online learning system.
+As a Principal Software Developer, I am given large, challenging, and often high-risk projects. Working independently and on small project teams, I have delivered many of the key features for ExecOnline's online learning platform.
 
-Tech: React with functional TypeScript, Ruby, Python, AWS.
+Technologies: React with functional TypeScript, Ruby, Python, AWS.
 
-Techniques: Distributed agile.
+Techniques: Distributed agile, Kanban, no-estimation forecasting
+
+Successes: I instigated and piloted the use of ActionableAgile for no-estimation project forecasting, which was adopted by the organization. I was a key contributor to shaping the client-side architecture, the details of which can be seen at https://cooperts.io. I served on the company's technology leadership team, helping drive team and organizational improvements.
 
 -----------------
 Past Roles
@@ -28,75 +29,65 @@ Fidelity Life Association - Manager of Software Development
 
 *Oct 2013 - Oct 2015 · 2 yrs 1 mo*
 
-I was hired to build out a new development team (and office) to take on some of the biggest challenges facing these two companies that had come together in an acquisition a few years prior.
+At FLA I was hired to build out a new development team and office to take on some of the biggest challenges facing the company at that time. Our team grew from two people to 10, delivered on projects, and brought new techniques and ways of thinking to the organization.
 
-We grew from two people to 10, delivered on projects, and brought new techniques and ways of thinking to the organization.
+Technologies: Ruby, RabbitMQ, AWS
 
-Tech: Ruby, RabbitMQ, AWS
-
-Techniques: Kanban, lean startup, Drive-inspired leadership and team-building.
+Techniques: Kanban, lean startup, Drive-inspired leadership and team-building
 
 Successes: Using ideas from lean-startup, delivered the first consumer-facing, agentless point-of-sale system, conducting multiple experiments on streamlining the sales experience.
-
 
 Jama Software - Senior Software Developer
 ---------------------------------------------
 
 *Apr 2012 - Oct 2013 · 1 yr 7 mos*
 
-At Jama, I was recruited to come join a new, small team that was building out the next generation of the company’s products. We were a team of four, working independently from the rest of the development organization, doing rapid prototyping and experimentation. Our work was eventually folded back into the core product, which led to new challenges of merging multiple server- and client-side architectures into the same product.
+At Jama, I was recruited to come join a new, small team that was building out the next generation of the company's products. We were a team of four, working independently from the rest of the development organization, doing rapid prototyping and experimentation. Our work was eventually folded back into the core product, which led to new challenges of merging multiple server- and client-side architectures into the same product.
 
-Tech: Java, Jersey RESTful services, Backbone.js, Ext JS, jQuery, server- and client-side logicless templates, Ruby on Rails.
+Technologies: Java, Jersey RESTful services, Backbone.js, Ext JS, jQuery, server- and client-side logicless templates, Ruby on Rails.
 
-Techniques: Kanban, rapid prototyping, continuous integration, build pipeline.
+Techniques: Kanban, rapid prototyping, continuous integration
 
-Successes: Helped accelerate the learning and decision-making that led to our team’s work being fed back into the core product.
-
+Successes: Helped accelerate the learning and decision-making that led to our team's work being fed back into the core product.
 
 Analog Analytics (now Barclaycard) - Software Developer
 ------------------------------------------------------------------------------------------
 
 *Jun 2011 - Mar 2012 · 10 mos*
 
-Analog Analytics was a start-up that developed a white-label platform for daily deals. I joined a mature team as an individual contributor. We had a lot of fun adding features to the platform. This was my first experience doing continuous delivery. We would deploy to production many times a day using Chef code that developers themselves helped develop and maintain.
+Analog Analytics was a start-up that developed a white-label platform for daily deals. I joined a mature team as an individual contributor. This was my first experience doing continuous delivery. We would deploy to production many times a day using Chef code that developers themselves helped develop and maintain.
 
-Tech: Ruby on Rails, Chef.
+Technologies: Ruby on Rails, Chef.
 
 Techniques: Pair programming, continuous integration and deployment, dev-ops style collaboration.
 
 Successes: Integrated quickly into an existing team, delivering software on day one, building out several key new features, and serving as lead on some important customer-driven projects.
-
 
 Collaborative Software Initiative - Software Developer, Lead role
 ------------------------------------------------------------------------------------------
 
 *Jan 2008 - Jun 2011 · 3 yrs 6 mos*
 
-At CSI, I was the first full-time development hire, coming over from Liberty Mutual with my manager to build a new team and start work on a new project. We were to build an open source, disease surveillance application. Initially the application was for the public health department of the state of Utah, with the hope that a community would grow around it and be used by other health departments and the CDC.
+At CSI, I was the first full-time development hire, coming over from Liberty Mutual with my manager to build a new team and start work on a new project. We were to build an open source, disease surveillance application. Initially the application was for the public health department of the state of Utah, with the hope that a community would grow around it and be used by other health departments and the CDC. I worked closely with the VP of Engineering and Product to build out the development team that would work with the subject matter experts in Utah to accomplish these goals. In the first year, we built a highly effective team and replaced Utah's existing surveillance application. In the years that followed, we continued to iterate, growing the application into a powerful tool in the fight to prevent disease.
 
-I worked closely with the VP of Engineering and Product to build out the development team that would work with the subject matter experts in Utah to accomplish these goals. In the first year, we built a highly effective team and replaced Utah’s existing surveillance application. In the years that followed, we continued to iterate, growing the application into a powerful tool in the fight to prevent disease.
-
-Our work got some press. Our team was featured in Time magazine. The form-builder mentioned in this article was one of the more interesting challenges in building the application, especially given some of the constraints we had for deploying it. Our tech stack was discussed on InfoQ.
-
-Tech: Ruby on Rails
+Technologies: Ruby on Rails
 
 Techniques: Distributed agile, continuous integration, open-source devlopment/community maintenance
 
-Successes: Building a great team and a cool product that did some good for the world
-
+Successes: Building a great team and product that did some good for the world
 
 Liberty Mutual - Software Developer, Technologist
 ------------------------------------------------------------------------------------------
 
 *Jul 2005 - Jan 2008 · 2 yrs 7 mos*
 
-I started at Liberty Mutual in Portland when IT was still under Liberty Northwest. In those days, I was an individual contributor on a web-based, auto-insurance application whose backend was a staged, event-driven system. I was developing services ‘on the bus’ and fixing scalability issues with the pre-existing ORM implementation.
+I started at Liberty Mutual in Portland when IT was still under Liberty Northwest. In those days, I was an individual contributor on a web-based, auto-insurance application whose backend was a staged, event-driven system. I was developing services 'on the bus' and fixing scalability issues with the pre-existing ORM implementation.
 
-Eventually, Liberty Northwest IT was folded into Liberty Mutual, and I was asked to join a small team that reported directly into the CTO of Liberty’s agency markets business unit. Our charter was to help establish the future application architecture for Liberty Mutual, bring agile and lean software development techniques to the rest of the company, and bring open-source software usage and development in the company mainstream.
+Eventually, Liberty Northwest IT was folded into Liberty Mutual, and I was asked to join a small team that reported directly into the CTO of Liberty's agency markets business unit. Our charter was to help establish the future application architecture for Liberty Mutual, bring agile and lean software development techniques to the rest of the company, and bring open-source software usage and development in the company mainstream.
 
 On this new team I was involved in rapid prototyping, architectural spikes, and product evaluations. On any given day we could be called upon by the CTO to stop what we were doing to address some business inefficiency. We were also asked to take trips out to other parts of the organization to present on agile and lean development techniques.
 
-Tech: Java, Ruby on Rails, Adobe Flex, JavaSpaces, Spring, Hibernate, ESB, SonicMQ
+Technologies: Java, Ruby on Rails, Adobe Flex, JavaSpaces, Spring, Hibernate, ESB, SonicMQ
 
 Techniques: Test-driven development, lean, agile
 
